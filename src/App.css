@@ -1,0 +1,61 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.infoLocation{
+  display: flex;
+  padding: 1em;
+  gap: 20px;
+  
+}
+.inputSearch{
+  width: 90vw;
+  height: 57vh;
+  background-image: url('https://besthqwallpapers.com/Uploads/27-9-2017/21876/thumb2-rick-and-morty-3d-animation-art-2017-movie.jpg');
+}
+input{
+  width: 40vw;
+  height: 4vh;
+  margin: 1em;
+  margin-top: 28em;
+}
+.circle{
+  
+    width: 25px;
+    height: 25px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    margin: 0 auto;
+ 
+  text-align: center;
+   
+}
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.gray {
+  background-color: gray;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
+h2{
+  color: black;
+  text-align: center;
+  margin-left: 6em;
+}
+p{
+  color:black;
+   
+}
